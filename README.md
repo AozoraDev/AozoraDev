@@ -1,3 +1,1 @@
-1. About Me
-Hi! I'm Ryanika. I love anime, manga, and Javascript.
-I'm Indonesian and i'm still a student.
+[![Hello](https://all-origami-files.is-inside.me/LaAevG6v.png)][1]

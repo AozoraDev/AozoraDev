@@ -11,3 +11,6 @@ A multipurpose Discord bot made just for fun with anime, image gen, utility and 
 - Discord: [Ryanika#2103]()
 - Discord Server: [https://discord.gg/nVXqAJD](https://discord.gg/nVXqAJD)
 - DEV: [https://dev.to/ryanikacoder](https://dev.to/ryanikacoder)
+## My MAL Stats
+[![](https://cdn.myanimelist.net/signature/Ryanika.png)
+](https://myanimelist.net/animelist/Ryanika&sclick=1) 

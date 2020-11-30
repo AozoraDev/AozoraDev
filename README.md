@@ -1,5 +1,5 @@
 ***
-![Ryanika](https://all-origami-files.is-inside.me/LaAevG6v.png)
+![Ryanika](https://all-origami-files.is-inside.me/hgI6TTcF.png)
 Hi there. I'm Ryanika. People who like anime, manga, hentai, and Javascript.
 I'm just an ordinary person who wants to be good at Python, Java, Javascript and C#.
 ***

@@ -4,9 +4,9 @@ Hi there. I'm Ryanika. People who like anime, manga, hentai, and Javascript.\
 I'm just an ordinary person who wants to be good at Python, Java, Javascript and C#.
 ***
 ## Project
-1) **Origami AI**\
+1) **Rophys**\
 A multipurpose Discord bot made just for fun with anime, image gen, utility and lots of other commands.\
-[Click here to invite Origami AI](https://discord.com/oauth2/authorize?client_id=701163527712538654&scope=bot&permissions=384064)
+[Click here to invite Rophys](https://discord.com/oauth2/authorize?client_id=701163527712538654&scope=bot&permissions=523328)
 ## Get In Touch
 - Discord: [Ryanika#2103]()
 - Discord Server: [https://discord.gg/nVXqAJD](https://discord.gg/nVXqAJD)

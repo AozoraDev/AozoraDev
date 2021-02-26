@@ -1,6 +1,6 @@
 ***
 ![Ryanika](https://cdn.discordapp.com/attachments/739404206565359658/783024266803281970/20201201_013823.png)
-Hi there. I'm Ryanika. People who like anime, manga, hentai, and Javascript.\
+Hi there. I'm Ryanika. People who like anime, manga, and Javascript.\
 I'm just an ordinary person who wants to be good at Python, Java, Javascript and C#.
 ***
 ## Project

@@ -16,6 +16,7 @@ A multipurpose Discord bot made just for fun with anime, image gen, utility and 
 [![](https://malsignature.com/?/view?username=Ryanika&style=normal)
 ]("https://malsignature.com")
 ## My GitHub Stats
+![](https://komarev.com/ghpvc/?username=Ryanika-Coder)
 <a href="https://github.com/Ryanika-Coder">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ryanika-Coder&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ryanika's GitHub Stats" />
 </a>

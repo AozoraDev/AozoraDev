@@ -1,5 +1,5 @@
 ***
-![Ryanika](https://cdn.discordapp.com/attachments/739404206565359658/783024266803281970/20201201_013823.png)
+![AozoraDev](https://raw.githubusercontent.com/AozoraDev/AozoraDev/main/20210320_040733.png)
 Hi there. I'm Aozora. People who like anime, manga, and Javascript.\
 I'm just an ordinary person who wants to be good at Python, Java, Javascript and C#.
 ***

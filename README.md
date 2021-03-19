@@ -13,7 +13,7 @@ A multipurpose Discord bot made just for fun with anime, image gen, utility and 
 - Discord Server: [https://discord.gg/nVXqAJD](https://discord.gg/nVXqAJD)
 - DEV: [https://dev.to/aozoradev](https://dev.to/aozoradev)
 ## My MAL Stats
-[![](https://malsignature.com/?/view?username=Ryanika&style=normal)
+[![](https://malsignature.com/?/view?username=AozoraDev&style=normal)
 ]("https://malsignature.com")
 ## My GitHub Stats
 ![](https://komarev.com/ghpvc/?username=AozoraDev) \

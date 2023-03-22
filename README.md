@@ -18,3 +18,9 @@ Also love cheap-ass things like <a href="https://www.indomie.co.id/">Indomie</a>
 <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" width="52px" height="52px">
 <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="Javascript" width="52px" height="52px">
 </span>
+
+<h2>Support me</h2>
+<a href="https://saweria.co/AozoraDev">Saweria (Indonesia)</a> - <a href="https://ko-fi.com/AozoraSan">Ko-fi (International)</a>
+
+<h2>Some stats and shits</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=AozoraDev&show_icons=true&count_private=true&theme=default" alt="Github Stats">

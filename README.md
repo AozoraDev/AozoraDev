@@ -23,4 +23,4 @@ Also love cheap-ass things like <a href="https://www.indomie.co.id/">Indomie</a>
 <a href="https://saweria.co/AozoraDev">Saweria (Indonesia)</a> - <a href="https://ko-fi.com/AozoraSan">Ko-fi (International)</a>
 
 <h2>Some stats and shits</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=AozoraDev&show_icons=true&count_private=true&theme=default" alt="Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=AozoraDev&show_icons=true&count_private=true&theme=transparent" alt="Github Stats">

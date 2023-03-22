@@ -1,6 +1,6 @@
 <hr>
-<img src="img/banner.jpg" alt="Banner lol">
+<img src="img/banner.JPG" alt="Banner">
 <br>
 <hr>
-<center><h2>Heyya, fellas! 🤙</h2></center>
+<center style=""><b>Heyya, fellas! 🤙</b></center>
 <hr>

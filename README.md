@@ -1,5 +1,5 @@
 <hr>
-<img src="img/banner.JPG" alt="Banner">
+<img src="img/banner.JPG" width="100%" alt="Banner">
 <hr>
 <h2>Some short-ass things about me</h2>
 <span>
@@ -24,4 +24,4 @@ Also love cheap-ass things like <a href="https://www.indomie.co.id/">Indomie</a>
 
 <h2>Some stats and shits</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=AozoraDev&show_icons=true&count_private=true&theme=transparent" width="100%" alt="Github Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AozoraDev&layout=compact" width="100%" alt="Github Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AozoraDev&layout=compact&theme=transparent" width="100%" alt="Github Stats">

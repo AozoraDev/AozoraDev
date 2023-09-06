@@ -3,11 +3,13 @@
 <hr>
 <h2>About me</h2>
 <span>
-Hi! I'm Aozora. A not-really-but-kinda programmer from 🇮🇩.
+Yahoo!
+<br /><br />
+I'm Aozora. A not-really-but-kinda programmer from 🇮🇩.
 <br>
-Love programming and linux stuff since covid pandemic.
+I love spending most of my time doing programming everyday because i'm unemployed lol.
 <br>
-Also love cheap-ass things like <a href="https://www.indomie.co.id/">Indomie</a>.
+Also, i use arch btw.
 </span>
 
 <h2>My Skills</h2>

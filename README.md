@@ -1,3 +1,4 @@
+<link rel="me" href="https://mastodon.social/@Aozora">
 <hr>
 <img src="img/banner.JPG" width="100%" alt="Banner">
 <hr>

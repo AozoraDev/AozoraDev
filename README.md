@@ -9,7 +9,6 @@
   <br>
   Also, Monika is my waifu. J̷̞̔͒̇Ȕ̵͍̦̮̯͛̽̇͠͝͝S̸̛͖̠̫͎̠̽͌͛͊̄̊͝T̵̢̛̿͌͆̾͆̋̚ ̷̥͙̍̓̚M̵̠̫̹͊O̵̡̠͎̤̖̿͐̐̌̊͑̚͜N̶̛̯̦̜̠̪̗̍̈́͛̀̋͝͠Ï̴̠̫͓̈́K̴̛͔̪̜̘̱̱̖͎͗̐̎̈A̵̢͔̦͆̀!̵̻̺̲̮͑̂̀̉̉
 </p>
-<br>
 
 <h2 align="center">Support Me!</h2>
 <p align="center">

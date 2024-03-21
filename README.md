@@ -2,33 +2,24 @@
 <hr>
 <img src="img/banner.JPG" width="100%" alt="Banner">
 <hr>
-<h2>About me</h2>
-<span>
-Yahoo!
-<br /><br />
-I'm Aozora. A not-really-but-kinda programmer from 🇮🇩.
+
+<h1 align="center">AOZORA</h1>
+<p align="center">
+  The laziest programmer that ever lived.
+  <br>
+  Also, Monika is my waifu. J̷̞̔͒̇Ȕ̵͍̦̮̯͛̽̇͠͝͝S̸̛͖̠̫͎̠̽͌͛͊̄̊͝T̵̢̛̿͌͆̾͆̋̚ ̷̥͙̍̓̚M̵̠̫̹͊O̵̡̠͎̤̖̿͐̐̌̊͑̚͜N̶̛̯̦̜̠̪̗̍̈́͛̀̋͝͠Ï̴̠̫͓̈́K̴̛͔̪̜̘̱̱̖͎͗̐̎̈A̵̢͔̦͆̀!̵̻̺̲̮͑̂̀̉̉
+</p>
 <br>
-I love spending most of my time doing programming everyday because i'm unemployed lol.
-<br>
-Also, i use arch btw.
-</span>
 
-<h2>My Skills</h2>
-<span>
-<img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="Java" width="40px" height="40px">
-<img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="PHP" width="40px" height="40px">
-<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML5" width="40px" height="40px">
-<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" width="40px" height="40px">
-<img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40px" height="40px">
-<img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" alt="Sass" width="40px" height="40px">
-<img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40px" height="40px">
-<img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="Linux" width="40px" height="40px">
-<img src="https://github.com/devicons/devicon/raw/master/icons/android/android-original.svg" alt="Android" width="40px" height="40px">
-</span>
-
-<h2>Support me</h2>
-<a href="https://saweria.co/AozoraDev">Saweria (Indonesia)</a> - <a href="https://ko-fi.com/AozoraSan">Ko-fi (International)</a>
-
-<h2>Some stats and shits</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=AozoraDev&show_icons=true&count_private=true&theme=default" width="100%" alt="Github Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AozoraDev&layout=compact&theme=default" width="100%" alt="Github Stats">
+<h2 align="center">Support Me!</h2>
+<p align="center">
+  Who am i? I'm a open source programmer.
+  <br>
+  And what open source programmer do? They make shits for free and open.
+  <br>
+  So, gimme sum of ur moni or i'll leak ya browser history! (nah jk, or am i?)
+  <br><br>
+  <a href="https://saweria.co/AozoraDev"><img alt="Static Badge" src="https://img.shields.io/badge/ID-Saweria-white?style=flat-square"></a>
+  <a href="https://ko-fi.com/AozoraSan"><img alt="Static Badge" src="https://img.shields.io/badge/INTER-Kofi-white?style=flat-square"></a>
+  <a href="https://github.com/sponsors/AozoraDev"><img alt="Static Badge" src="https://img.shields.io/badge/INTER-Github Sponsor-white?style=flat-square"></a>
+</p>

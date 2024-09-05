@@ -16,3 +16,5 @@
   <a href="https://ko-fi.com/AozoraSan"><img alt="Static Badge" src="https://img.shields.io/badge/INTER-Kofi-white?style=flat-square"></a>
   <a href="https://github.com/sponsors/AozoraDev"><img alt="Static Badge" src="https://img.shields.io/badge/INTER-Github Sponsor-white?style=flat-square"></a>
 </p>
+<br>
+<sub>My pfp created by my fren with reference from... uhh... i forgot.</sub>
